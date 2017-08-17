@@ -1,0 +1,28 @@
+{
+  "name": "first-webpack",
+  "version": "0.0.1",
+  "description": "first project using webpack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastien-M/webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "first",
+    "simplon"
+  ],
+  "author": "Sebastien Mandaba>seb.mandaba@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebastien-M/webpack/issues"
+  },
+  "homepage": "https://github.com/Sebastien-M/webpack#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "webpack": "^3.5.5"
+  }
+}
